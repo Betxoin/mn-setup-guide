@@ -362,7 +362,7 @@ cd betxoin
 ./betxoind
 ```
 
-The daemon should start minimzed.   
+The daemon should start minimized.   
 You’ll only see a message like this:   
 
 ```
