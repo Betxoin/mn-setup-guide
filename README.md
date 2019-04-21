@@ -6,9 +6,9 @@ If you require further assistance contact the support team [Discord](https://dis
 ***
 ## Requirements
 1) **1000 Betxoin coins (buy on [Crex24](https://crex24.com/?refid=5q0v5tcmmzqq9q1wvy3h))**
-2) **A VPS (Vultr) running Linux Ubuntu 16.04**
-3) **A Windows or MAC OS X local wallet**
-4) **An SSH client such as [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe)**
+2) **VPS (Vultr) running Linux Ubuntu 16.04**
+3) **Windows or MAC OS X local wallet**
+4) **SSH client such as [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe)**
 ***
 ## Contents
 * [Section A](#Section-A) - Creating the VPS within [Vultr](https://www.vultr.com/?ref=7485061)
@@ -124,7 +124,7 @@ sudo apt-get update
 ![Example-RootPassEnter](https://i.imgur.com/oT7yGpI.png)
 ***
 
-***Step 7 (Installing needed libraries)***
+***Step 7 (Install all required libraries)***
 
 ***Step 7.1*** Paste the code below into the Bitvise terminal then press enter:
 
