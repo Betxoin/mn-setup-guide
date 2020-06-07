@@ -324,10 +324,10 @@ Save the config (Ctrl+X --> Y --> Enter)
 `Ctrl+x`
 ![Example-conf](https://i.imgur.com/YS2dlce.png)
 
-`Y`
+`Y` 
 ![Example-conf](https://i.imgur.com/aYM5XzN.png)
 
-`Enter`
+`Enter` 
 ![Example-conf](https://i.imgur.com/8qEAIju.png)
 
 
