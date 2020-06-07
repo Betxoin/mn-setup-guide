@@ -412,7 +412,3 @@ If you do, congratulations! You have now setup a masternode.
 If you do not, please contact me or any other support
 
 [:arrow_up: Contents :arrow_up:](#Contents)
-
-     
-Any donation is highly appreciated    
-**BETXC**: B6Ni8RfMdNd99wXcHWKqZKJsaA91eVmzSc
